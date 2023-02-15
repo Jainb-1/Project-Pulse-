@@ -1,1 +1,2 @@
-# Project-Pulse-
+# Project-Pulse-Our project is based on a wearable device which basically measures vital data like temperature,spo2 level and pulse rate of a patient admitted in hospital and further sends this data to firebase realtime database and a mobile app named VITAL  which fetches this data from firebase.
+App sorts out the data collected from the firebase by temperature and SpO2 level, so that doctor can monitor first to needful. The doctor can monitor many patients by seeing the each patient's data on the app. App gives a priority order according to their health status so that doctor can visit the needful first.
